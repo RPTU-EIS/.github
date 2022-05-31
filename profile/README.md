@@ -1,4 +1,4 @@
-# CHAIR OF ELECTRONIC DESIGN AUTOMATION | Technische Universität Kaiserslautern (Germany)
+# CHAIR OF ELECTRONIC DESIGN AUTOMATION | Technische Universität Kaiserslautern
 
 ## Research
 
