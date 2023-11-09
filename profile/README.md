@@ -23,8 +23,8 @@ In Proceedings of the 58th ACM/IEEE Design Automation Conference (DAC '21), Dec.
 [Towards a formally verified hardware root-of-trust for data-oblivious computing](https://dl.acm.org/doi/abs/10.1145/3489517.3530981).
 In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC '22), July 2022, pp. 727–732.
 [^4]: D. Mehmedagic, M.R. Fadiheh, J. Mueller, A.L. Duque Antón, D. Stoffel, W. Kunz:
-[Design of Access Control Mechanisms in Systems-on-Chip with Formal Integrity Guarantees](https://www.usenix.org/system/files/sec23fall-prepub-247-mehmedagic.pdf).
-In 32nd USENIX Security Conference, 2023 (to appear)
+[Design of Access Control Mechanisms in Systems-on-Chip with Formal Integrity Guarantees](https://www.usenix.org/system/files/usenixsecurity23-mehmedagic.pdf).
+In 32nd USENIX Security Conference, 2023
 [^5]: T. Ludwig, J. Urdahl, D. Stoffel, W. Kunz: 
 [Properties First – Correct-By-Construction RTL Design in System-Level Design Flows](https://ieeexplore.ieee.org/document/8759950). 
 In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, July 11, 2019
