@@ -1,10 +1,10 @@
-# CHAIR OF ELECTRONIC DESIGN AUTOMATION | Technische Universität Kaiserslautern
+# CHAIR OF ELECTRONIC DESIGN AUTOMATION | University of Kaiserslautern (RPTU)
 
 ## Research
 
-The focus of our current research activities is on design and verification of Embedded Systems and Systems-on-Chip (SoC). We are interested in both the hardware and the low-level software (firmware) of the systems. Some of our research projects are particularly focussed on the interaction between hardware and software.
+The focus of our current research activities is on design and verification of Embedded Systems and Systems-on-Chip (SoC). We are interested in both the hardware and the low-level software (firmware) of the systems. Some of our research projects are particularly focused on the interaction between hardware and software.
 
-Besides targeting traditional design goals such as high performance and low power consumption, a particular objective of our research is to make contributions to achieving functional safety and security of the designed and manufactured systems. The requirement of functional safety and security is driven by an increased use of embedded systems technology in safety- and security-critical applications such as in avionics and in automotive systems (e.g., autonomous cars). Another driver of this research field are new manufacturing techniques in “smart factories” (Industry 4.0) which impose new challenges on the safety of embedded systems technology as well as on the confidentiality of the data being processed.
+Besides targeting traditional design goals such as high performance and low power consumption, a particular objective of our research is to make contributions to achieving functional safety and security of the designed and manufactured systems. The requirement for functional safety and security is driven by an increased use of embedded systems technology in safety- and security-critical applications such as in avionics and in automotive systems (e.g., autonomous cars). Another driver of this research field are new manufacturing techniques in “smart factories” (Industry 4.0) which impose new challenges on the safety of embedded systems technology as well as on the confidentiality of the data being processed.
 Current research topics are:
 
 - Hardware Security with respect to Microarchitectural Attacks [^1][^2][^3][^4] 
@@ -33,7 +33,7 @@ In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 On Proceedings of DVCON US, 2019
 [^7]: S. Udupi, J. Urdahl, D. Stoffel, W. Kunz: 
 [Exploiting Hardware Unobservability for Low-Power Design and Safety Analysis in Formal Verification-Driven Design Flows](https://ieeexplore.ieee.org/document/8689360/). 
-In IEEE Transactions on Very Large Scale Integration Systems, Vol. 27 , No. 6 , June 2019 
+In IEEE Transactions on Very Large Scale Integration Systems, Vol. 27, No. 6, June 2019 
 [^8]: C. Bartsch, S. Wilhelm, D. Kästner, D. Stoffel, W. Kunz: 
 [Compositional Fault Propagation Analysis in Embedded Systems using Abstract Interpretation](https://ieeexplore.ieee.org/abstract/document/9611333/). 
 In IEEE International Test Conference (ITC), Oct. 10-15 2021,  Anaheim, USA 
