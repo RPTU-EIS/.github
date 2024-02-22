@@ -7,8 +7,8 @@ The focus of our current research activities is on the design and verification o
 Besides targeting traditional design goals such as high performance and low power consumption, a particular objective of our research is to make contributions to achieving functional safety and security of the designed and manufactured systems. The requirement for functional safety and security is driven by an increased use of embedded systems technology in safety- and security-critical applications such as in avionics and automotive systems (e.g., autonomous cars). Another driver of this research field are new manufacturing techniques in “smart factories” (Industry 4.0) which impose new challenges on the safety of embedded systems technology as well as on the confidentiality of the data being processed.
 Current research topics are:
 
-- Exhaustive Detection of Security Vulnerabilities in Hardware (e.g., Microarchitectural Attacks) [^1][^2][^3][^4]
-- Design and Implementation of Mitigations targeting Transient Execution and Timing Attacks [^5][^6]
+- Detection of Security Vulnerabilities in Hardware through exhaustive formal Methods [^1][^2][^3][^4]
+- Design and Implementation of Mitigations targeting Transient Execution Side Channels and Timing Attacks [^5][^6]
 - Correct-by-Construction Embedded System Design using "Property-First Design" [^7][^8][^9]
 
 
@@ -27,8 +27,8 @@ In 32nd USENIX Security Conference, 2023
 [^5]: T. Jauch, A. Wezel, M.R. Fadiheh, P. Schmitz, S. Ray, J. Fung, C.W. Fletcher, D. Stoffel, W. Kunz:
 [Secure-by-Construction Design Methodology for CPUs: Implementing Secure Speculation on the RTL](https://ieeexplore.ieee.org/abstract/document/10323843).
 In 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), Nov. 2023, pp. 1-9
-[^6]: P.p Schmitz, T. Jauch, A. Wezel, M.R. Fadiheh, T. Tiemann, J. Heller, T. Eisenbarth, D. Stoffel, W. Kunz:
-[Okapi: A Lightweight Architecture for Secure Speculation Exploiting Locality of Memory Accesses](https://arxiv.org/abs/2312.08156)
+[^6]: P. Schmitz, T. Jauch, A. Wezel, M.R. Fadiheh, T. Tiemann, J. Heller, T. Eisenbarth, D. Stoffel, W. Kunz:
+[Okapi: A Lightweight Architecture for Secure Speculation Exploiting Locality of Memory Accesses](https://arxiv.org/abs/2312.08156).
 arXiv preprint, 2023, 2312.08156 (cs.CR)
 [^7]: T. Ludwig, J. Urdahl, D. Stoffel, W. Kunz: 
 [Properties First – Correct-By-Construction RTL Design in System-Level Design Flows](https://ieeexplore.ieee.org/document/8759950). 
